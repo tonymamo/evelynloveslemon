@@ -5024,7 +5024,7 @@
 				}
 
 				// Get the id of the video
-				regExp = provider === 'youtube' ? /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/ : /http:\/\/(www\.)?vimeo.com\/(\d+)/;
+				regExp = provider === 'youtube' ? /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/ : /https:\/\/(www\.)?vimeo.com\/(\d+)/;
 				match = href.match( regExp );
 				id = match[2];
 
