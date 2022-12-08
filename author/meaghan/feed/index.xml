@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -50,7 +50,7 @@
 				<category><![CDATA[Flowers]]></category>
 		<category><![CDATA[Passion]]></category>
 
-		<guid isPermaLink="false">http://localhost:8888/?p=5</guid>
+		<guid isPermaLink="false">https://localhost:8888/?p=5</guid>
 		<description><![CDATA[From the time I was a little girl being in the garden or smelling a bouquet of fresh flowers has brought me pure joy. The kind of joy that sinks so deep inside of you, it plants itself and never leaves. I spent most of my childhood playing outside collecting all the beautiful things nature <a href="/2016/03/24/sharing-my-joy/" rel="nofollow"><span class="sr-only">Read more about Sharing My Joy</span>[&#8230;]</a>]]></description>
 				<content:encoded><![CDATA[<p>From the time I was a little girl being in the garden or smelling a bouquet of fresh flowers has brought me pure joy. The kind of joy that sinks so deep inside of you, it plants itself and never leaves. I spent most of my childhood playing outside collecting all the beautiful things nature has to offer.  Filling my hands with dirt, sticking my nose in a blossoming magnolia or running my bare feet across a fresh covering of moss. This was my heaven. Every summer I would go back to the same places where I could find wild sweet peas growing or endless patches of forget me not’s. These were the simple joys that called to me. </p>
 <p>As I grew older these simple pleasures began to get pushed aside by my need to be sensible and productive. I chose to work towards a degree that would provide a job. I married. I worked. I paid bills. I felt… nothing. Until, the moment I got a whiff of fresh soil or held a cut flower in my hand. That joy that was planted so deep inside of me would sprout up and I would feel alive. </p>

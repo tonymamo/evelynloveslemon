@@ -1,8 +1,8 @@
 /*
 Theme Name: Zerif Lite
-Theme URI: http://themeisle.com/themes/zerif-lite/
+Theme URI: https://themeisle.com/themes/zerif-lite/
 Author: ThemeIsle
-Author URI: http://themeisle.com
+Author URI: https://themeisle.com
 Description: Zerif LITE is a free one page WordPress theme. It's perfect for web agency business,corporate business,personal and parallax business portfolio, photography sites and freelancer.Is built on BootStrap with parallax support, is responsive, clean, modern, flat and minimal. Zerif Lite is ecommerce (WooCommerce) Compatible, WPML, RTL, Retina-Ready, SEO Friendly and with parallax, full screen image is one of the best business themes.
 Version: 1.8.5.5
 License: GNU General Public License version 3
@@ -17,7 +17,7 @@ Tags: one-column, two-columns, right-sidebar,full-width-template,rtl-language-su
 1.0 - Reset
 --------------------------------------------------------------*/
 html {
-	font-size: 62.5%; /* Corrects text resizing oddly in IE6/7 when body font-size is set using em units http://clagnut.com/blog/348/#c790 */
+	font-size: 62.5%; /* Corrects text resizing oddly in IE6/7 when body font-size is set using em units https://clagnut.com/blog/348/#c790 */
 	overflow-y: scroll; /* Keeps page centered in all browsers regardless of content height */
 	-webkit-text-size-adjust: 100%; /* Prevents iOS text size adjust after orientation change, without disabling user zoom */
 	-ms-text-size-adjust:     100%; /* www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/ */
@@ -42,9 +42,9 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 }
 *,
 *:before,
-*:after { /* apply a natural box layout model to all elements; see http://www.paulirish.com/2012/box-sizing-border-box-ftw/ */
-	-webkit-box-sizing: border-box; /* Not needed for modern webkit but still used by Blackberry Browser 7.0; see http://caniuse.com/#search=box-sizing */
-	-moz-box-sizing:    border-box; /* Still needed for Firefox 28; see http://caniuse.com/#search=box-sizing */
+*:after { /* apply a natural box layout model to all elements; see https://www.paulirish.com/2012/box-sizing-border-box-ftw/ */
+	-webkit-box-sizing: border-box; /* Not needed for modern webkit but still used by Blackberry Browser 7.0; see https://caniuse.com/#search=box-sizing */
+	-moz-box-sizing:    border-box; /* Still needed for Firefox 28; see https://caniuse.com/#search=box-sizing */
 	box-sizing:         border-box;
 }
 body {

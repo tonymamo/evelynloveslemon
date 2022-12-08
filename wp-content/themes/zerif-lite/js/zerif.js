@@ -119,7 +119,7 @@ if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
 
 jQuery(document).ready(function() {
 
-    // Sticky Header - http://jqueryfordesigners.com/fixed-floating-elements/
+    // Sticky Header - https://jqueryfordesigners.com/fixed-floating-elements/
 	if( typeof jQuery('#main-nav') != 'undefined' && typeof jQuery('#main-nav').offset() != 'undefined' ) {
 		var top = jQuery('#main-nav').offset().top - parseFloat(jQuery('#main-nav').css('margin-top').replace(/auto/, 0));
 	}
